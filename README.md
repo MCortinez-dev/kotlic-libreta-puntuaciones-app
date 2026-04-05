@@ -21,6 +21,14 @@ The application allows users to keep track of scores for games or competitions u
 
 This project was created as part of a programming assignment to practice application logic and Kotlin development.
 
+## Screenshots
+
+![Main Screen](screenshoots/main.png)
+![Log In Screen](screenshoots/login.png)
+![register Screen](screenshoots/register.png)
+![Score Screen](screenshoots/score.png)
+![Options Side Bar](screenshoots/side.png)
+
 ## How to Run
 
 1. Clone the repository
