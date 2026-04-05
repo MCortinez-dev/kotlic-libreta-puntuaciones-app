@@ -23,11 +23,13 @@ This project was created as part of a programming assignment to practice applica
 
 ## Screenshots
 
-![Main Screen](screenshots/main.png)
 ![Log In Screen](screenshots/login.png)
 ![register Screen](screenshots/register.png)
+![Main Screen](screenshots/main.png)
 ![Score Screen](screenshots/score.png)
 ![Options Side Bar](screenshots/side.png)
+![Profile](screenshots/profilewithfunnyanimation.png)
+![Profile](screenshots/profilewithfunnyanimation2.png)
 
 ## How to Run
 
