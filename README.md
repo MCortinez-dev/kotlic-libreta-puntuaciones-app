@@ -44,3 +44,8 @@ git clone https://github.com/MCortinez-dev/kotlic-libreta-puntuaciones-app
 ## Author
 
 Student project for learning Kotlin development.
+
+## License
+
+Distributed under the MIT License.  
+See `LICENSE` for more information.
